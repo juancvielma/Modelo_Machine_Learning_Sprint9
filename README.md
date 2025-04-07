@@ -1,6 +1,7 @@
 # Modelo_Machine_Learning_Sprint9# Modelo Machine Learning Sprint9
 
 Este proyecto forma parte del Sprint 9 de Machine Learning y tiene como objetivo analizar el comportamiento mensual de los usuarios. Se utiliza un dataset que contiene información sobre llamadas, minutos, mensajes y tráfico de Internet, y se clasifica a los usuarios según su plan (Ultra o Smart).
+Puedes conseguir el repositorio de github en el siguente enlace: https://github.com/juancvielma/Modelo_Machine_Learning_Sprint9
 
 ## Contenido del Proyecto
 
